@@ -1,5 +1,6 @@
 # jetpack_docker
 this is the repo that contains docker container and dockerfile for jetpack
+This repo is related to this issue(https://seoulrobotics.atlassian.net/browse/TP-84?focusedCommentId=24173&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-24173)
 
 ## Description 
 This repo contains dockerfile to pull image from NGC (Nvidia GPU Cloud) _ https://catalog.ngc.nvidia.com/containers?filters=&orderBy=dateModifiedDESC&query=L4T
