@@ -1,5 +1,5 @@
 #FROM nvcr.io/nvidia/l4t-ml:r32.5.0-py3
-FROM nvcr.io/nvidia/l4t-cuda:11.4.14-runtime
+FROM nvcr.io/nvidia/l4t-cuda:10.2.460-runtime
 # set the locale
 ENV LC_ALL=C.UTF-8 \
     LANG=C.UTF-8 \
